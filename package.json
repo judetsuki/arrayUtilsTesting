@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fast-check": "^4.0.0",
+    "jest": "^29.7.0"
+  },
+  "name": "arrayutilstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayUtils.js",
+  "scripts": {
+    "test": "node --no-watch --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {}
+}
